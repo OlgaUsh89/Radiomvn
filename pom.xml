@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>oru.netology.stats</groupId>
-    <artifactId>Radiomvn</artifactId>
+    <artifactId>Radio</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
